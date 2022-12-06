@@ -11,7 +11,7 @@ export default ({ env }) => ({
 });
 */
 
-// posgree
+// postgres
 module.exports = ({ env }) => ({
   connection: {
     client: 'postgres',
